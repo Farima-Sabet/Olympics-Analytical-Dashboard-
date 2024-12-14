@@ -13,3 +13,4 @@ Visualization: I created a series of charts, tables, and graphs to display the f
 
 Challenges & Solutions:
 Managing the complex dataset and ensuring accurate analysis across dimensions like country, gender, and sport was challenging. I addressed this by using DAX to calculate key metrics and applied data modeling techniques to maintain accuracy and clarity in the dashboard.
+
